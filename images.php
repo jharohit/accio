@@ -10,8 +10,8 @@
 <?php
 
 
-$image_href = "images.php?search=".$_GET["search"];
-$search_href= "search.php?search=".$_GET["search"];
+$image_href = "/accio/images.php?search=".$_GET["search"];
+$search_href= "/accio/search.php?search=".$_GET["search"];
 $image_menu="<li class=\"active\"><a href=\"".$image_href."\">Images</a></li>";
 $search_menu="<li class=\"\"><a href=\"".$search_href."\">Search</a></li>";
 include 'top_menu.php';
@@ -29,7 +29,7 @@ include 'top_menu.php';
     $search=$_GET["search"];
 //echo $search;
 
-    $request_url="http://graph.facebook.com/search?q=".$search;
+    $request_url="http://graph.facebook.com/search?q=".$search."&limit=5000";
     $request=file_get_contents($request_url);
     $fb_response=json_decode($request);
     echo  "<br>";
