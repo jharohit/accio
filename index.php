@@ -12,7 +12,10 @@
 
 <div class="container">
 
-    <?php include 'searchBar.php';?>
+    <?php
+    $page = "search.php";
+    include 'searchBar.php';
+    ?>
 
 </div> <!-- /container -->
 

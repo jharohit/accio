@@ -6,10 +6,13 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="#">ACCIO</a>
+            <a class="brand" href="../">ACCIO</a>
             <div class="nav-collapse collapse">
                 <ul class="nav">
-                    <li class="active"><a href="#"></a></li>
+
+                    <?php echo $search_menu;?>
+                    <?php echo $image_menu;?>
+
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
