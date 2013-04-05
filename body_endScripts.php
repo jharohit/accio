@@ -14,3 +14,5 @@
 <script src="js/bootstrap-collapse.js"></script>
 <script src="js/bootstrap-carousel.js"></script>
 <script src="js/bootstrap-typeahead.js"></script>
+<script src="js/load-image.min.js"></script>
+<script src="js/bootstrap-image-gallery.min.js"></script>
