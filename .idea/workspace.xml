@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="295684d2-6d58-4398-b6d7-89c080536cc3" name="Default" comment="changes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-image-gallery.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-image-gallery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/load-image.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/body_endScripts.php" afterPath="$PROJECT_DIR$/body_endScripts.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html_head.php" afterPath="$PROJECT_DIR$/html_head.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images.php" afterPath="$PROJECT_DIR$/images.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/searchBar.php" afterPath="$PROJECT_DIR$/searchBar.php" />
+    <list default="true" id="295684d2-6d58-4398-b6d7-89c080536cc3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="accio.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/searchBar.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365178284260" ignored="false" />
     <file path="/body_endScripts.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365184319624" ignored="false" />
-    <file path="/Dummy.txt" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365185657528" ignored="false" />
+    <file path="/Dummy.txt" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365185676791" ignored="false" />
     <file path="/images.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365185611520" ignored="false" />
     <file path="/top_menu.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365182960347" ignored="false" />
     <file path="/html_head.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365184138804" ignored="false" />
@@ -50,7 +58,7 @@
       <file leaf-file-name="images.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/images.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="45" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.25167784">
+            <state line="52" column="45" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.27272728">
               <folding />
             </state>
           </provider>
@@ -154,6 +162,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -227,7 +249,11 @@
       <created>1365177559165</created>
       <updated>1365177559165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes">
+      <created>1365185684560</created>
+      <updated>1365185684560</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -240,7 +266,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938574" sideWeight="0.67346936" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39680588" sideWeight="0.67346936" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32803467" sideWeight="0.5924528" order="7" side_tool="true" content_ui="tabs" />
@@ -297,7 +323,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated searchpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -314,6 +340,7 @@
     <MESSAGE value="resolved the search error" />
     <MESSAGE value="updated README" />
     <MESSAGE value="updated searchpage" />
+    <MESSAGE value="changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -420,7 +447,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/images.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="45" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.25167784">
+        <state line="52" column="45" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.27272728">
           <folding />
         </state>
       </provider>
