@@ -13,7 +13,7 @@
 <div class="container">
 
     <?php
-    $page = "search.php";
+    $page = "search";
     include 'searchBar.php';
     ?>
 
