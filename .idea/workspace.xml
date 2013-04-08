@@ -2,28 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="295684d2-6d58-4398-b6d7-89c080536cc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/body_endScripts.php" afterPath="$PROJECT_DIR$/body_endScripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html_head.php" afterPath="$PROJECT_DIR$/html_head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images.php" afterPath="$PROJECT_DIR$/images.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="accio.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/searchBar.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365178284260" ignored="false" />
-    <file path="/body_endScripts.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365184319624" ignored="false" />
-    <file path="/Dummy.txt" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365185676791" ignored="false" />
+    <file path="/body_endScripts.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365189025863" ignored="false" />
+    <file path="/Dummy.txt" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365186322089" ignored="false" />
     <file path="/images.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365185611520" ignored="false" />
     <file path="/top_menu.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365182960347" ignored="false" />
     <file path="/html_head.php" changelist="295684d2-6d58-4398-b6d7-89c080536cc3" time="1365184138804" ignored="false" />
@@ -49,7 +38,16 @@
       <file leaf-file-name="body_endScripts.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/body_endScripts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="48" selection-start="849" selection-end="849" vertical-scroll-proportion="-10.625">
+            <state line="17" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="-10.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="76" selection-start="680" selection-end="693" vertical-scroll-proportion="-2.2916667">
               <folding />
             </state>
           </provider>
@@ -58,7 +56,7 @@
       <file leaf-file-name="images.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/images.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="45" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.27272728">
+            <state line="27" column="10" selection-start="587" selection-end="587" vertical-scroll-proportion="0.40633246">
               <folding />
             </state>
           </provider>
@@ -76,7 +74,7 @@
       <file leaf-file-name="html_head.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_head.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="-2.5">
+            <state line="25" column="0" selection-start="1042" selection-end="1042" vertical-scroll-proportion="-15.625">
               <folding />
             </state>
           </provider>
@@ -105,18 +103,18 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/searchBar.php" />
         <option value="$PROJECT_DIR$/top_menu.php" />
-        <option value="$PROJECT_DIR$/html_head.php" />
         <option value="$PROJECT_DIR$/body_endScripts.php" />
+        <option value="$PROJECT_DIR$/html_head.php" />
         <option value="$PROJECT_DIR$/images.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="574" />
-    <option name="y" value="54" />
-    <option name="width" value="860" />
-    <option name="height" value="659" />
+    <option name="x" value="15" />
+    <option name="y" value="22" />
+    <option name="width" value="888" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -172,7 +170,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -253,20 +251,24 @@
       <created>1365185684560</created>
       <updated>1365185684560</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add js">
+      <created>1365186330822</created>
+      <updated>1365186330822</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="574" y="54" width="860" height="659" extended-state="0" />
+    <frame x="15" y="22" width="888" height="812" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32803467" sideWeight="0.39874214" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3265306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39680588" sideWeight="0.67346936" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26365796" sideWeight="0.6748555" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32803467" sideWeight="0.5924528" order="7" side_tool="true" content_ui="tabs" />
@@ -323,7 +325,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add js" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -341,6 +343,7 @@
     <MESSAGE value="updated README" />
     <MESSAGE value="updated searchpage" />
     <MESSAGE value="changes" />
+    <MESSAGE value="add js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -396,13 +399,6 @@
         <state line="1879" column="1" selection-start="32469" selection-end="32469" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="76" selection-start="680" selection-end="693" vertical-scroll-proportion="-7.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.13761468">
@@ -424,20 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/body_endScripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="48" selection-start="849" selection-end="849" vertical-scroll-proportion="-10.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/searchBar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="58" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
@@ -445,9 +427,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="76" selection-start="680" selection-end="693" vertical-scroll-proportion="-2.2916667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/body_endScripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="-10.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="1042" selection-end="1042" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="45" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.27272728">
+        <state line="27" column="10" selection-start="587" selection-end="587" vertical-scroll-proportion="0.40633246">
           <folding />
         </state>
       </provider>
