@@ -22,7 +22,8 @@ include 'top_menu.php';
 
     <?php
 
-    $page=substr($_SERVER['SCRIPT_NAME'],1);
+    //$page=substr($_SERVER['SCRIPT_NAME'],1);
+    $page = basename($_SERVER['PHP_SELF'], ".php");
     include 'searchBar.php';
 
         ?>
