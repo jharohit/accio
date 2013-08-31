@@ -30,7 +30,7 @@ include 'top_menu.php';
     $search=$_GET["search"];
 //echo $search;
 
-    $request_url="http://graph.facebook.com/search?q=".$search."&limit=5000&access_token=".$accessToken;
+    $request_url="https://graph.facebook.com/search?q=".$search."&limit=5000&access_token=".$accessToken;
     $request=file_get_contents($request_url);
     $fb_response=json_decode($request);
 
