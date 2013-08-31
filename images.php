@@ -9,7 +9,7 @@
 
 <?php
 
-$accessToken = "451694224906813|H2P-duZJC3UeLBblxf78u_tE8hw";
+$accessToken = "";
 $image_href = "/accio/images.php?search=".$_GET["search"];
 $search_href= "/accio/search.php?search=".$_GET["search"];
 $image_menu="<li class=\"active\"><a href=\"".$image_href."\">Images</a></li>";
