@@ -9,7 +9,7 @@
 
 <?php
 
-
+$accessToken = "451694224906813|H2P-duZJC3UeLBblxf78u_tE8hw";
 $image_href = "/accio/images.php?search=".$_GET["search"];
 $search_href= "/accio/ssearch.php?search=".$_GET["search"];
 $image_menu="<li class=\"\"><a href=\"".$image_href."\">Images</a></li>";
@@ -30,7 +30,7 @@ include 'top_menu.php';
     $search=$_GET["search"];
 //echo $search;
 
-    $request_url="http://graph.facebook.com/search?q=".$search."&limit=5000";
+    $request_url="http://graph.facebook.com/search?q=".$search."&limit=5000&access_token=".$accessToken;
     $request=file_get_contents($request_url);
     $fb_response=json_decode($request);
 
