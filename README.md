@@ -1,6 +1,6 @@
 accio
 =====
 
-Personal Facebook Graph Search
+GUI for Facebook Graph Public Search
 
 http://getaccio.com
